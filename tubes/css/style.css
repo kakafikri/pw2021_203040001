@@ -1,0 +1,19 @@
+.container-fluid img {
+  max-height: 50px;
+}
+
+.navbar-collapse {
+  padding-left: 20%;
+}
+
+.nav-item {
+  padding-left: 10px;
+}
+
+.nav-item img{
+  max-height: 25px;
+}
+
+.container h2 {
+  padding-top: 10px;
+}
