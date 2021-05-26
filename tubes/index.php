@@ -133,21 +133,21 @@ if (isset($_GET['cari'])) {
     <div class="container">
       <div class="card-group">
         <div class="card bg-transparent" style="border: 1px solid grey;">
-          <img src="assets/img/1-hd.png" class="card-img-top" alt="...">
+          <img src="assets/img/1-hd.jpg" class="card-img-top" alt="...">
           <div class="card-body" style="color: white; text-align: center;">
             <h5 class="card-title">Article 01</h5>
             <p class="card-text">Our First Article</p>
           </div>
         </div>
         <div class="card bg-transparent" style="border: 1px solid grey;">
-          <img src="assets/img/2-hd.png" class="card-img-top" alt="...">
+          <img src="assets/img/2-hd.jpg" class="card-img-top" alt="...">
           <div class="card-body" style="color: white; text-align: center;">
             <h5 class="card-title">Article 03</h5>
             <p class="card-text">Coming Soon</p>
           </div>
         </div>
         <div class="card bg-transparent" style="border: 1px solid grey;">
-          <img src="assets/img/3-hd.png" class="card-img-top" alt="...">
+          <img src="assets/img/3-hd.jpg" class="card-img-top" alt="...">
           <div class="card-body" style="color: white; text-align: center;">
             <h5 class="card-title">Article 03</h5>
             <p class="card-text">Coming Soon</p>

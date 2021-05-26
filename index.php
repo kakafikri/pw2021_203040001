@@ -46,7 +46,7 @@
   <!-- profil -->
   <div class="container" style="margin-top: 50px;">
     <div class="card border-light mb-3">
-      <img src="tubes/assets/img/profil-1.JPG" class="card-img-top" alt="..." style="border: 0px solid black; border-radius: 360px; max-width: 300px; margin: auto; margin-top:;">
+      <img src="tubes/assets/img/profil-1.JPG" class="card-img-top" alt="..." style="border: 0px solid black; border-radius: 360px; max-width: 300px; margin: auto;">
       <figure class="text-center" style="margin-top: 20px;">
         <blockquote class="blockquote">
           <p>Fikri Ridwan Faturohman</p>

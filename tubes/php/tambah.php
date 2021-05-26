@@ -67,7 +67,7 @@ if (isset($_POST['tambah'])) {
             <label for="stok">Stok :</label><br>
             <select name="stok" id="stok" required>
                 <option value="">Pilih Stok</option>
-                <option value="Tersedia">Tersedia</option>
+                <option value="Ready">Ready</option>
                 <option value="Coming Soon">Coming Soon</option>
             </select>
         </li>
