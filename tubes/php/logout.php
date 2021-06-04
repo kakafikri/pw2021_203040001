@@ -1,10 +1,7 @@
-<!-- 
-Nama : Fikri Ridwan Faturohman
-NRP : 203040001
-Praktikum : Rabu pukul 09:00 - 10:00 WIB
--->
-
 <?php
+/*Nama : Fikri Ridwan Faturohman
+NRP : 203040001
+Praktikum : Rabu pukul 09:00 - 10:00 WIB*/
 session_start();
 session_destroy();
 
