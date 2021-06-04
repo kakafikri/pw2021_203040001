@@ -16,6 +16,9 @@ $baju = query("SELECT * FROM baju");
 <body>
   <h3>Daftar Baju</h3>
 
+  <a href="tambah.php">Tambah Data Baju</a>
+  <br><br>
+
   <table border="1" cellpadding="10" cellspacing="0">
     <tr>
       <th>#</th>
